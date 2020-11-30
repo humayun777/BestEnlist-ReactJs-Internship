@@ -17,5 +17,6 @@ console.log(num1 == 50 || num2 == 50 || num1+num2 == 50 ? true : false);
 //Task 3
 //Write a javascript program to check the length of the string.
 
-var stringValue = prompt();
-console.log(stringValue.length);
+var string = "Hello World!";
+var noOfWords = string.length;
+console.log(noOfWords);
