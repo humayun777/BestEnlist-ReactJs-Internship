@@ -8,8 +8,7 @@ var differenceInDays = differenceInTime / (1000 * 3600 * 24);
 console.log(differenceInDays);
 
 //Task 2
-//Write a JavaScript program to check two given numbers and return true if one of the number is 50 or if their 
-sum is 50.
+//Write a JavaScript program to check two given numbers and return true if one of the number is 50 or if their sum is 50.
 
 var num1 = Number(prompt());
 var num2 = Number(prompt());
